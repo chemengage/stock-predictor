@@ -130,4 +130,7 @@ dmypy.json
 
 # model predictions
 *.png
-*.joblib 
+*.joblib
+
+# SSH keys
+*.pem
